@@ -1,5 +1,4 @@
 const { Schema, model } = require('mongoose');
-require('mongoose-type-email');
 
 const UserSchema = new Schema(
 	{
